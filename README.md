@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 FaceAttend - AI-Based Attendance System Using Face Recognition
 
 Automatic attendance from a webcam: register students, recognise them live, and
@@ -130,3 +131,7 @@ webcam frame → Haar face detection → crop + eye alignment + resize 160×160
 Haar detection works best on frontal faces in decent light. For real classroom use, obtain
 consent from students, store data securely, and treat face recognition as an aid, not as
 sole proof of presence.
+=======
+# Face-Recognition-Attendance-System
+An AI-powered attendance management system using Python, OpenCV, FaceNet, CNN embeddings, and cosine similarity for real-time face recognition and automated attendance tracking.
+>>>>>>> e65e58abd3b86bea87b744947f6a97f7388e7b57
